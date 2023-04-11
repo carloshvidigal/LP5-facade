@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="196b61ba-eaf3-4434-b647-9774f6ddb71a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/message1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/message2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facade/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facade/DriverFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facade/Exam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facade/PraticalExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facade/PsychologicalExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/facade/TheoricalExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/facade/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/facade/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/facade/PraticalExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/facade/PraticalExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/facade/PsychologicalExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/facade/PsychologicalExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/facade/TheoricalExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/facade/TheoricalExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

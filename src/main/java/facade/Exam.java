@@ -5,13 +5,13 @@ import java.util.List;
 
 public abstract class Exam {
 
-    private List<Driver> testedDrivers = new ArrayList<Driver>();
+    private List<Driver> approvedDrivers = new ArrayList<Driver>();
 
-    public void addTestedDriver (Driver driver) {
-        this.testedDrivers.add(driver);
+    public void addApprovedDrivers (Driver driver) {
+        this.approvedDrivers.add(driver);
     }
 
-    public boolean checkTestedDriver (Driver driver) {
-        return this.testedDrivers.contains(driver);
+    public boolean checkApprovedDriver (Driver driver) {
+        return this.approvedDrivers.contains(driver);
     }
 }
