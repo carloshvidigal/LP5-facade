@@ -3,6 +3,6 @@ package facade;
 public class Driver {
 
     public boolean getDriverLicense() {
-        return DriverFacade.checkLicenceExams(this);
+        return DriverFacade.checkPendingExams(this);
     }
 }

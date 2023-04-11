@@ -4,14 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public abstract class Exam {
+    private List<Driver> pendingDrivers = new ArrayList<Driver>();
 
-    private List<Driver> approvedDrivers = new ArrayList<Driver>();
-
-    public void addApprovedDrivers (Driver driver) {
-        this.approvedDrivers.add(driver);
+    public void addPendingDriver (Driver driver) {
+        this.pendingDrivers.add(driver);
     }
-
-    public boolean checkApprovedDriver (Driver driver) {
-        return this.approvedDrivers.contains(driver);
+    public boolean checkPendingDrivers (Driver driver) {
+        return this.pendingDrivers.contains(driver);
     }
 }
